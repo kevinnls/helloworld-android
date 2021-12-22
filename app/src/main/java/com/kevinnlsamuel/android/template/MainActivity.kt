@@ -1,4 +1,4 @@
-package com.kevinnlsamuel.android.template
+package com.kevinnlsamuel.android.helloworld
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
